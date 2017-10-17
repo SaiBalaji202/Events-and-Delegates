@@ -1,0 +1,6 @@
+c:\users\balaj\documents\visual studio 2017\Projects\Youtube\Youtube\bin\Debug\Youtube.exe.config
+c:\users\balaj\documents\visual studio 2017\Projects\Youtube\Youtube\bin\Debug\Youtube.exe
+c:\users\balaj\documents\visual studio 2017\Projects\Youtube\Youtube\bin\Debug\Youtube.pdb
+c:\users\balaj\documents\visual studio 2017\Projects\Youtube\Youtube\obj\Debug\Youtube.csprojResolveAssemblyReference.cache
+c:\users\balaj\documents\visual studio 2017\Projects\Youtube\Youtube\obj\Debug\Youtube.exe
+c:\users\balaj\documents\visual studio 2017\Projects\Youtube\Youtube\obj\Debug\Youtube.pdb
